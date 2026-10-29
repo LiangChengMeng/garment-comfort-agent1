@@ -1,0 +1,117 @@
+{
+  "success": true,
+  "scene": {
+    "temperature": 20,
+    "humidity": 50,
+    "wind_speed": 0.1,
+    "activity_met": 1.1
+  },
+  "total_calculated": 22,
+  "top_recommended": [
+    {
+      "id": "F011",
+      "name": "棉涤混纺衬衫布",
+      "composition": "65%棉+35%聚酯纤维",
+      "pmv": -0.27,
+      "comfort_score": 95,
+      "sensation": "舒适",
+      "typical_use": "长袖衬衫、通勤上衣"
+    },
+    {
+      "id": "F018",
+      "name": "中厚款抓绒",
+      "composition": "100%聚酯纤维",
+      "pmv": -0.27,
+      "comfort_score": 95,
+      "sensation": "舒适",
+      "typical_use": "厚抓绒衣、保暖中间层"
+    },
+    {
+      "id": "F020",
+      "name": "腈纶混纺厚针织",
+      "composition": "70%腈纶+30%羊毛",
+      "pmv": 0.36,
+      "comfort_score": 93,
+      "sensation": "舒适",
+      "typical_use": "厚毛衣、针织外套"
+    }
+  ],
+  "other_fabrics": [
+    {
+      "name": "软壳复合面料",
+      "reason": "舒适度低于推荐方案"
+    },
+    {
+      "name": "羊毛精纺面料",
+      "reason": "热阻不足，体感偏冷"
+    },
+    {
+      "name": "薄款抓绒",
+      "reason": "热阻不足，体感偏冷"
+    },
+    {
+      "name": "厚款纯棉卫衣布",
+      "reason": "热阻不足，体感偏冷"
+    },
+    {
+      "name": "厚款羊毛针织",
+      "reason": "热阻过高/透气不足，体感偏热"
+    },
+    {
+      "name": "涤盖棉运动面料",
+      "reason": "热阻不足，体感偏冷"
+    },
+    {
+      "name": "高蓬羽绒内胆面料",
+      "reason": "热阻过高/透气不足，体感偏热"
+    },
+    {
+      "name": "薄款美利奴羊毛针织",
+      "reason": "热阻不足，体感偏冷"
+    },
+    {
+      "name": "纯棉棉毛布",
+      "reason": "热阻不足，体感偏冷"
+    },
+    {
+      "name": "中厚纯棉单面针织",
+      "reason": "热阻不足，体感偏冷"
+    },
+    {
+      "name": "锦涤速干网眼",
+      "reason": "热阻不足，体感偏冷"
+    },
+    {
+      "name": "亚麻平布",
+      "reason": "热阻不足，体感偏冷"
+    },
+    {
+      "name": "莱赛尔天丝平纹",
+      "reason": "热阻不足，体感偏冷"
+    },
+    {
+      "name": "苎麻平布",
+      "reason": "热阻不足，体感偏冷"
+    },
+    {
+      "name": "竹纤维针织",
+      "reason": "热阻不足，体感偏冷"
+    },
+    {
+      "name": "莫代尔针织",
+      "reason": "热阻不足，体感偏冷"
+    },
+    {
+      "name": "轻薄纯棉平纹针织",
+      "reason": "热阻不足，体感偏冷"
+    },
+    {
+      "name": "桑蚕丝电力纺",
+      "reason": "热阻不足，体感偏冷"
+    },
+    {
+      "name": "轻薄涤纶速干针织",
+      "reason": "热阻不足，体感偏冷"
+    }
+  ]
+}

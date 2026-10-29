@@ -1,0 +1,16 @@
+{
+  "success": true,
+  "params": {
+    "air_temperature": 26,
+    "relative_humidity": 50,
+    "air_speed": 0.1,
+    "met": 1.1,
+    "radiant_temperature": 26
+  },
+  "warnings": [
+    "未输入相对湿度，已按通用场景默认补全为50%",
+    "未输入风速，已按室内无风场景默认补全为0.1m/s",
+    "未输入活动强度，已按静坐办公场景默认补全为1.1met",
+    "未输入辐射温度，已默认等于空气温度"
+  ]
+}

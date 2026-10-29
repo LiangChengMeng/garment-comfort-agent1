@@ -1,0 +1,55 @@
+{
+  "success": true,
+  "test_counts": {
+    "normal_cases": 6,
+    "boundary_cases": 3,
+    "abnormal_cases": 3
+  },
+  "error_details": [
+    {
+      "case_id": "TC001",
+      "scene": "夏季办公室静坐",
+      "measured_pmv": 0.2,
+      "calculated_pmv": -0.08,
+      "absolute_error": 0.28
+    },
+    {
+      "case_id": "TC002",
+      "scene": "夏季傍晚户外慢走",
+      "measured_pmv": 0.4,
+      "calculated_pmv": 0.79,
+      "absolute_error": 0.39
+    },
+    {
+      "case_id": "TC003",
+      "scene": "春秋办公室通勤",
+      "measured_pmv": 0.1,
+      "calculated_pmv": -0.27,
+      "absolute_error": 0.37
+    },
+    {
+      "case_id": "TC004",
+      "scene": "春秋户外徒步",
+      "measured_pmv": -0.2,
+      "calculated_pmv": -0.24,
+      "absolute_error": 0.04
+    },
+    {
+      "case_id": "TC005",
+      "scene": "冬季室内静坐",
+      "measured_pmv": -0.3,
+      "calculated_pmv": -0.56,
+      "absolute_error": 0.26
+    },
+    {
+      "case_id": "TC006",
+      "scene": "冬季户外通勤",
+      "measured_pmv": -0.4,
+      "calculated_pmv": -0.5,
+      "absolute_error": 0.1
+    }
+  ],
+  "average_absolute_error": 0.24,
+  "pass_engineering_standard": true,
+  "conclusion": "计算平均误差小于0.35，符合服装工程精度要求，结果有效"
+}
