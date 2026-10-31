@@ -28,7 +28,7 @@ Fabric selection in fashion design and daily wear still relies on experience and
 
 ## 2. Demo Video
 
-**[▶ Watch the 4-minute demo video (replace with your Bilibili / YouTube link)](REPLACE_WITH_YOUR_VIDEO_LINK)**
+**[▶ Watch the 4-minute demo video (replace with your Bilibili / YouTube link)](演示视频.mp4)**
 
 The video walks through the real execution chain: fabric data loading → parameter auto-completion → abnormal-input interception → summer-office comfort calculation with Top-3 picks → precision verification.
 
